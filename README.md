@@ -69,6 +69,21 @@ Power BI | Excel | Data Modeling | Data Visualization | Business Intelligence
 
 <img width="1571" height="859" alt="image" src="https://github.com/user-attachments/assets/7ba2f4f9-9a55-423b-89da-e2dae00ddd3b" />
 
+## Key Insights from Dashboard
+
+- CO2 emissions show a consistent upward trend from 2010 to 2029, indicating increasing environmental pressure  
+- Renewable energy usage is growing steadily, but not fast enough to offset emissions  
+- AQI shows fluctuations, suggesting inconsistent air quality improvements  
+- Certain U.S. states contribute disproportionately to CO2 emissions  
+- Sustainability index highlights imbalance between environmental factors  
+
+## Business Interpretation
+
+- Rising emissions and debt levels indicate long-term sustainability risks  
+- Economic and environmental policies need stronger alignment  
+- Investment in renewable energy must accelerate to stabilize trends  
+- Data suggests need for domestic production and consumption strategies  
+
 
 ## Future Improvements
 
