@@ -67,7 +67,8 @@ Power BI | Excel | Data Modeling | Data Visualization | Business Intelligence
 
 ## Screenshots
 
-(Add your Power BI dashboard screenshots here)
+<img width="1571" height="859" alt="image" src="https://github.com/user-attachments/assets/7ba2f4f9-9a55-423b-89da-e2dae00ddd3b" />
+
 
 ## Future Improvements
 
