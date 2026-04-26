@@ -1,5 +1,7 @@
 # American Economic Future 2029 – Power BI Dashboard
 
+# This dashboard analyzes U.S. economic and environmental indicators to evaluate long-term sustainability risks and predict future conditions for 2029.
+
 ## Overview
 
 This project analyzes key U.S. economic indicators from 2017–2025 and builds a predictive view of the country’s financial outlook for 2029 using data visualization and business intelligence techniques.
